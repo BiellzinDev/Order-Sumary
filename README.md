@@ -1,3 +1,7 @@
+<img width="578" height="668" alt="image" src="https://github.com/user-attachments/assets/3f36ef9f-fe77-4f14-b687-4123d4f82f01" />
+
+
+
 # 🚀 ORDER SUMARY
 
 Repositório criado durante o curso de **Desenvolvimento Web**, com o objetivo de reunir e demonstrar componentes web reutilizáveis desenvolvidos em HTML e CSS.
